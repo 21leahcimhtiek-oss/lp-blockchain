@@ -1,0 +1,16 @@
+{
+  "id": "blockchain",
+  "name": "Blockchain",
+  "tagline": "AI-powered blockchain solution",
+  "description": "AI-powered blockchain application built for Aurora Market. Modern, responsive design with SaaS monetization.",
+  "category": "blockchain",
+  "tags": ["ai", "blockchain"],
+  "url": "https://auroramarket.org/blockchain",
+  "demo": "https://21leahcimhtiek-oss.github.io/blockchain",
+  "repo": "https://github.com/21leahcimhtiek-oss/blockchain",
+  "stack": ["HTML", "CSS", "JavaScript"],
+  "status": "mvp",
+  "version": "1.0.0",
+  "author": "Aurora Rayes LLC",
+  "license": "MIT"
+}
